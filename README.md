@@ -6,6 +6,8 @@
 - Spring Web
 - Spring Data
 - Thymeleaf
+- Hypertext Markup Language
+- Cascade Style Sheet
 
 ### Application purpose: 
 
