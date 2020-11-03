@@ -1,5 +1,12 @@
 # Coronavirus-Tracker-App
 
-Coronavirus-Tracker-App uses JDK 12.
+## Technology used:
 
-CoronaVirus-Tracker is a web app capable of delivering real time cases.
+- Java
+- Spring Web
+- Spring Data
+- Thymeleaf
+
+### Application purpose: 
+
+- It displays real time cases of Covid around the world based on an api from Github.
